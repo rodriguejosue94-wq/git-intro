@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Estoy en camino para pasar el examen DEVASC de DevNet
+=======
+Estoy en camino para pasar el examen DEVASC de NetACad
+>>>>>>> test
 ¡Estoy empezando a entender Git!
 Este texto se agregó originalmente en la rama de características
